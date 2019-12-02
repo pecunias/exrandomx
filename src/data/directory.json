@@ -1,0 +1,56 @@
+{ 
+    "bodyparts": [{
+        "name": "Neck",
+        "muscles": [{
+            "name": "Sternocleidomastoid",
+            "exercises": [
+                {
+                    "type": "Cable",
+                    "name": "Neck Flexion"
+                },
+                {
+                    "type": "Cable1",
+                    "name": "Neck Flexion1"
+                }
+                ]
+            },
+            {
+                "name": "Sternocleidomastoid2",
+                "exercises": [
+                    {
+                        "type": "Cable",
+                        "name": "Neck Flexion"
+                    },
+                    {
+                        "type": "Cable1",
+                        "name": "Neck Flexion1"
+                    }
+                    ]
+                }]
+    },
+    {
+        "name": "Shoulders",
+        "muscles": [{
+            "name": "Anterior Deltoid",
+            "exercises": [{
+                "type": "Barbell",
+                "name": "Behind Neck Press"
+            },
+            {
+                "type": "Barbell1",
+                "name": "Behind Neck Press1"
+            }]
+        },
+        {
+            "name": "Anterior Deltoid2",
+            "exercises": [{
+                "type": "Barbell",
+                "name": "Behind Neck Press"
+            },
+            {
+                "type": "Barbell1",
+                "name": "Behind Neck Press1"
+            }]
+        }]
+    }]
+}
