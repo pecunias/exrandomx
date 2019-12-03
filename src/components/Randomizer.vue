@@ -6,6 +6,7 @@
         {{muscle.name}}
         <ChosenExercise :exercises="muscle.exercises" />
       </div>
+      <hr />
     </div>
 </div>
 
